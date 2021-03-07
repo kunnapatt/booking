@@ -1,11 +1,11 @@
 {
-    "(AB)": {
+    "AB": {
         "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน โทโมเสะชุนซาคุอาร์ตเวิร์กส์ (Classroom of the Elite)": {
             "not": "https://www.phoenixnext.com/ab0035-01.html"
         }
     },
-    "(LN)": {
-        "86 ―เอทตี้ซิกซ์―": {
+    "LN": {
+        "86 -เอทตี้ซิกซ์-": {
             "1 ": "https://www.phoenixnext.com/ln0044-01.html",
             "2": "https://www.phoenixnext.com/ln0083-01.html",
             "3": "https://www.phoenixnext.com/ln0109-01.html",
@@ -382,7 +382,7 @@
             "5": "https://www.phoenixnext.com/ln0229-01.html"
         }
     },
-    "(MD)": {
+    "MD": {
         "Classroom of the Elite": {
             "B2 Tapestry AIRI SAKURA's Birthday": "https://www.phoenixnext.com/mer0296-01.html",
             "Special Clear file (Thai uniform)": "https://www.phoenixnext.com/mer0505-01.html",
@@ -400,162 +400,77 @@
         "Dengeki Bunko Acrylic Figure Eromanga Sensei  - Sagiri Izumi": {
             "not": "https://www.phoenixnext.com/mer0474-01.html"
         },
-        "Eromanga Sensei - B2 Tapestry [2]": {
-            "not": "https://www.phoenixnext.com/mer0308-01.html"
+        "Eromanga Sensei ": {
+            "B2 Tapestry [2]": "https://www.phoenixnext.com/mer0308-01.html",
+            "Big Size Tapestry A": "https://www.phoenixnext.com/mer0306-01.html",
+            "Big Size Tapestry B": "https://www.phoenixnext.com/mer0307-01.html",
+            "Sagiri Izumi Mekuttyadameyo Clear folder": "https://www.phoenixnext.com/mer0478-01.html",
+            "Smartphone Flip Case[3]": "https://www.phoenixnext.com/mer0473-01.html",
+            "Double suede Tapestry - Sagiri Izumi & Elf Yamada Maruhadaka!": "https://www.phoenixnext.com/mer0063-01.html",
+            "Double suede Tapestry Haregi ver.": "https://www.phoenixnext.com/mer0062-01.html",
+            "Ore no Imouto ga konnani Kawaii Wakeganai Memorial Trading Mini Card": "https://www.phoenixnext.com/mer0064-01.html"
         },
-        "Eromanga Sensei - Big Size Tapestry A": {
-            "not": "https://www.phoenixnext.com/mer0306-01.html"
+        "Hyakka Ryouran": {
+            "Acrylic key chain set [B] (Akashic Records of Bastard Magic Instructor)": "https://www.phoenixnext.com/mer0455-01.html",
+            "Akashic Records of Bastard Magic Instructor B2 size Tapestry": "https://www.phoenixnext.com/mer0449-01.html",
+            "Akashic Records of Bastard Magic Instructor Book Cover": "https://www.phoenixnext.com/mer0453-01.html"
         },
-        "Eromanga Sensei - Big Size Tapestry B": {
-            "not": "https://www.phoenixnext.com/mer0307-01.html"
-        },
-        "Eromanga Sensei - Sagiri Izumi Mekuttyadameyo Clear folder": {
-            "not": "https://www.phoenixnext.com/mer0478-01.html"
-        },
-        "Eromanga Sensei - Smartphone Flip Case[3]": {
-            "not": "https://www.phoenixnext.com/mer0473-01.html"
-        },
-        "Eromanga Sensei Double suede Tapestry - Sagiri Izumi & Elf Yamada Maruhadaka!": {
-            "not": "https://www.phoenixnext.com/mer0063-01.html"
-        },
-        "Eromanga Sensei Double suede Tapestry Haregi ver.": {
-            "not": "https://www.phoenixnext.com/mer0062-01.html"
-        },
-        "Eromanga sensei & Ore no Imouto ga konnani Kawaii Wakeganai Memorial Trading Mini Card": {
-            "not": "https://www.phoenixnext.com/mer0064-01.html"
-        },
-        "Fantasia Bunko Festival -Hyakka Ryouran- Acrylic key chain set [B] (Akashic Records of Bastard Magic Instructor)": {
-            "not": "https://www.phoenixnext.com/mer0455-01.html"
-        },
-        "Fantasia Bunko Festival -Hyakka Ryouran- Akashic Records of Bastard Magic Instructor B2 size Tapestry": {
-            "not": "https://www.phoenixnext.com/mer0449-01.html"
-        },
-        "Fantasia Bunko Festival -Hyakka Ryouran- Akashic Records of Bastard Magic Instructor Book Cover": {
-            "not": "https://www.phoenixnext.com/mer0453-01.html"
-        },
-        "Fantasia Festival 2018 - Akashic Records of Bastard Magic Instructor B2 Tapestry": {
-            "not": "https://www.phoenixnext.com/mer0309-01.html"
-        },
-        "Fantasia Festival 2018 - Akashic Records of Bastard Magic Instructor Book Cover": {
-            "not": "https://www.phoenixnext.com/mer0065-01.html"
+        "Akashic Records of Bastard Magic Instructor": {
+            "B2 Tapestry": "https://www.phoenixnext.com/mer0309-01.html",
+            "Book Cover": "https://www.phoenixnext.com/mer0065-01.html"
         },
         "Fantasia Festival 2018 - Rubber Play Mat Akashic Records of Bastard Magic Instructor": {
             "not": "https://www.phoenixnext.com/mer0021-01.html"
         },
-        "KONOSUBA!2 - Acrylic board A": {
-            "not": "https://www.phoenixnext.com/mer0410-01.html"
-        },
-        "KONOSUBA!2 - Name tag A": {
-            "not": "https://www.phoenixnext.com/mer0405-01.html"
-        },
-        "KONOSUBA!2 - Name tag B": {
-            "not": "https://www.phoenixnext.com/mer0406-01.html"
-        },
-        "KONOSUBA!2 - Neck pillow A": {
-            "not": "https://www.phoenixnext.com/mer0515-01.html"
-        },
-        "KONOSUBA!2 - Suitcase belt A": {
-            "not": "https://www.phoenixnext.com/mer0403-01.html"
-        },
-        "KONOSUBA!2 - Suitcase belt B": {
-            "not": "https://www.phoenixnext.com/mer0404-01.html"
-        },
-        "KONOSUBA!2 - passport case A": {
-            "not": "https://www.phoenixnext.com/mer0407-01.html"
-        },
-        "Konosuba Acrylic Stand - Aqua": {
-            "not": "https://www.phoenixnext.com/mer0089-01.html"
-        },
-        "Konosuba Acrylic Stand - Darkness": {
-            "not": "https://www.phoenixnext.com/mer0091-01.html"
-        },
-        "Konosuba Acrylic Stand - Megumin": {
-            "not": "https://www.phoenixnext.com/mer0090-01.html"
-        },
-        "Konosuba Fan A - Aqua": {
-            "not": "https://www.phoenixnext.com/mer0092-01.html"
-        },
-        "Konosuba! - Bakuen Fair POP SOCKETS Aqua": {
-            "not": "https://www.phoenixnext.com/mer0564-01.html"
-        },
-        "Konosuba! - Bakuen Fair POPSOCKETS Megumin": {
-            "not": "https://www.phoenixnext.com/mer0565-01.html"
-        },
-        "Konosuba! 2 - Daily table calendar A ": {
-            "not": "https://www.phoenixnext.com/mer0560-01.html"
-        },
-        "Konosuba! 2 - Daily table calendar B": {
-            "not": "https://www.phoenixnext.com/mer0561-01.html"
-        },
-        "Konosuba! 2 - plush doll A": {
-            "not": "https://www.phoenixnext.com/mer0563-01.html"
-        },
-        "Konosuba! Legend of Crimson - Acrylic Diorama": {
-            "not": "https://www.phoenixnext.com/mer0676-01.html"
-        },
-        "Konosuba! Legend of Crimson - Acrylic Key Holder Aqua": {
-            "not": "https://www.phoenixnext.com/mer0520-01.html"
-        },
-        "Konosuba! Legend of Crimson - Acrylic Key Holder Darkness": {
-            "not": "https://www.phoenixnext.com/mer0521-01.html"
-        },
-        "Konosuba! Legend of Crimson - Acrylic Key Holder Kazuma": {
-            "not": "https://www.phoenixnext.com/mer0522-01.html"
-        },
-        "Konosuba! Legend of Crimson - Acrylic Key Holder Megumin": {
-            "not": "https://www.phoenixnext.com/mer0519-01.html"
-        },
-        "Konosuba! Legend of Crimson - Acrylic Key Holder Wiz": {
-            "not": "https://www.phoenixnext.com/mer0523-01.html"
-        },
-        "Konosuba! Legend of Crimson - Acrylic Key Holder Yunyun": {
-            "not": "https://www.phoenixnext.com/mer0524-01.html"
-        },
-        "Konosuba! Legend of Crimson - Can badge Set": {
-            "not": "https://www.phoenixnext.com/mer0531-01.html"
-        },
-        "Konosuba! Legend of Crimson - Chomusuke Plush Doll Key Holder": {
-            "not": "https://www.phoenixnext.com/mer0677-01.html"
-        },
-        "Konosuba! Legend of Crimson - Clear file Aqua": {
-            "not": "https://www.phoenixnext.com/mer0526-01.html"
-        },
-        "Konosuba! Legend of Crimson - Clear file Darkness": {
-            "not": "https://www.phoenixnext.com/mer0527-01.html"
-        },
-        "Konosuba! Legend of Crimson - Clear file Megumin": {
-            "not": "https://www.phoenixnext.com/mer0525-01.html"
-        },
-        "Konosuba! Legend of Crimson - Clear file Type A (Light)": {
-            "not": "https://www.phoenixnext.com/mer0528-01.html"
-        },
-        "Konosuba! Legend of Crimson - Clear file Type B (Dark)": {
-            "not": "https://www.phoenixnext.com/mer0529-02.html"
-        },
-        "Konosuba! Legend of Crimson - T-shirt": {
-            "not": "https://www.phoenixnext.com/mer0530-01.html"
-        },
-        "Konosuba: God's Blessing on This Wonderful World! B2 Tapestry MEGUMIN": {
-            "not": "https://www.phoenixnext.com/mer0319-01.html"
+        "Konosuba": {
+            "Fan A - Aqua": "https://www.phoenixnext.com/mer0092-01.html",
+            "Bakuen Fair POP SOCKETS Aqua": "https://www.phoenixnext.com/mer0564-01.html",
+            "Bakuen Fair POPSOCKETS Megumin": "https://www.phoenixnext.com/mer0565-01.html",
+            "Daily table calendar A ": "https://www.phoenixnext.com/mer0560-01.html",
+            "Daily table calendar B": "https://www.phoenixnext.com/mer0561-01.html",
+            "plush doll A": "https://www.phoenixnext.com/mer0563-01.html",
+            "Legend of Crimson - Acrylic Diorama": "https://www.phoenixnext.com/mer0676-01.html",
+            "Legend of Crimson - Acrylic Key Holder Aqua": "https://www.phoenixnext.com/mer0520-01.html",
+            "Legend of Crimson - Acrylic Key Holder Darkness": "https://www.phoenixnext.com/mer0521-01.html",
+            "Legend of Crimson - Acrylic Key Holder Kazuma": "https://www.phoenixnext.com/mer0522-01.html",
+            "Legend of Crimson - Acrylic Key Holder Megumin": "https://www.phoenixnext.com/mer0519-01.html",
+            "Legend of Crimson - Acrylic Key Holder Wiz": "https://www.phoenixnext.com/mer0523-01.html",
+            "Legend of Crimson - Acrylic Key Holder Yunyun": "https://www.phoenixnext.com/mer0524-01.html",
+            "Legend of Crimson - Can badge Set": "https://www.phoenixnext.com/mer0531-01.html",
+            "Legend of Crimson - Chomusuke Plush Doll Key Holder": "https://www.phoenixnext.com/mer0677-01.html",
+            "Legend of Crimson - Clear file Aqua": "https://www.phoenixnext.com/mer0526-01.html",
+            "Legend of Crimson - Clear file Darkness": "https://www.phoenixnext.com/mer0527-01.html",
+            "Legend of Crimson - Clear file Megumin": "https://www.phoenixnext.com/mer0525-01.html",
+            "Legend of Crimson - Clear file Type A (Light)": "https://www.phoenixnext.com/mer0528-01.html",
+            "Legend of Crimson - Clear file Type B (Dark)": "https://www.phoenixnext.com/mer0529-02.html",
+            "Legend of Crimson - T-shirt": "https://www.phoenixnext.com/mer0530-01.html",
+            "God's Blessing on This Wonderful World! B2 Tapestry MEGUMIN": "https://www.phoenixnext.com/mer0319-01.html",
+            "Neck pillow A": "https://www.phoenixnext.com/mer0515-01.html",
+            "Suitcase belt A": "https://www.phoenixnext.com/mer0403-01.html",
+            "Suitcase belt B": "https://www.phoenixnext.com/mer0404-01.html",
+            "passport case A": "https://www.phoenixnext.com/mer0407-01.html",
+            "Acrylic Stand - Aqua": "https://www.phoenixnext.com/mer0089-01.html",
+            "Acrylic Stand - Darkness": "https://www.phoenixnext.com/mer0091-01.html",
+            "Acrylic Stand - Megumin": "https://www.phoenixnext.com/mer0090-01.html",
+            "Acrylic board A": "https://www.phoenixnext.com/mer0410-01.html",
+            "Name tag A": "https://www.phoenixnext.com/mer0405-01.html",
+            "Name tag B": "https://www.phoenixnext.com/mer0406-01.html"
         },
         "Maou Gakuin no Futekigousha - Sasha Necron Acrylic Key Chain": {
             "not": "https://www.phoenixnext.com/mer0580-01.html"
         },
-        "Solo Leveling - Hoodie Jacket (Size L)": {
-            "not": "https://www.phoenixnext.com/mer0740-01.html"
-        },
-        "Solo Leveling - Hoodie Jacket (Size M)": {
-            "not": "https://www.phoenixnext.com/mer0739-01.html"
+        "Solo Leveling": {
+            "Hoodie Jacket (Size L)": "https://www.phoenixnext.com/mer0740-01.html",
+            "Hoodie Jacket (Size M)": "https://www.phoenixnext.com/mer0739-01.html"
         }
     },
-    "(MG)": {
-        " your name": {
-            "1": "https://www.phoenixnext.com/mg0001-02.html"
+    "MG": {
+        "your name": {
+            "1": "https://www.phoenixnext.com/mg0001-02.html",
+            "2": "https://www.phoenixnext.com/mg0002-01.html"
         },
         "86 -เอทตี้ซิกซ์-": {
-            "2": "https://www.phoenixnext.com/mg0222-01.html"
-        },
-        "86 ―เอทตี้ซิกซ์―": {
+            "2": "https://www.phoenixnext.com/mg0222-01.html",
             "1": "https://www.phoenixnext.com/mg0182-01.html"
         },
         "Box Set ขอให้ระเบิดตู้มตู้มในโลกแฟนตาซี": {
@@ -663,9 +578,6 @@
         "Weathering With You ฤดูฝัน ฉันมีเธอ": {
             "1": "https://www.phoenixnext.com/mg0191-01.html",
             "1 [ปก Limited Edition]": "https://www.phoenixnext.com/mg0191-01p.html"
-        },
-        "your name. เธอคือ...": {
-            "2": "https://www.phoenixnext.com/mg0002-01.html"
         },
         "กระซิบรักเป็นทำนองร้องบอกเธอ": {
             "1": "https://www.phoenixnext.com/mgm0042-01.html",
@@ -1052,7 +964,7 @@
             "7": "https://www.phoenixnext.com/mg0136-01.html"
         }
     },
-    "(N)": {
+    "N": {
         "Solo Leveling": {
             "1": "https://www.phoenixnext.com/ln0189-01.html",
             "2": "https://www.phoenixnext.com/ln0216-01.html",
