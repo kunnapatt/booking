@@ -16,6 +16,8 @@ class AutomateBuy:
         
         self.to_book_link(self.list_link_buy)
         # time.sleep(10)
+        self.driver.switch_to.window(self.driver.window_handles[0])
+        self.driver.get(self.config["cart_url"])
         while True :
             pass
         
@@ -32,21 +34,22 @@ class AutomateBuy:
             self.data_link = self.read_json("data.json")
         # print(self.data_link)
 
-        self.name_book = "ขอต้อนรับ"
+        self.name_book = ["ขอต้อนรับ", "อุตส่าห์มีคนมาชอบ"]
         self.type_book = "LN"
-        self.books = [1, 2, 3, 4]
+        self.books = [[1, 2, 3, 4], [1, 2, 3]]
         self.list_link_buy = []
-        for k, v in self.data_link[self.type_book].items() :
-            if k.startswith(self.name_book) :
-                for nb in self.books :
-                    try :
-                        link_book = v[str(nb)]
-                        self.list_link_buy.append(link_book)
-                    except KeyError :
-                        print(f"Doesn't exists book {k} {self.books[i]} in categorical {self.type_book}")
-                ### case search name book match with name book in data
-                if self.name_book is k :
-                    break
+        for i in range(len(self.name_book)) :
+            for k, v in self.data_link[self.type_book].items() :
+                if k.startswith(self.name_book[i]) :
+                    for nb in self.books[i] :
+                        try :
+                            link_book = v[str(nb)]
+                            self.list_link_buy.append(link_book)
+                        except KeyError :
+                            print(f"Doesn't exists book {k} {nb} in categorical {self.type_book}")
+                    ### case search name book match with name book in data
+                    if self.name_book is k :
+                        break
 
         print(self.list_link_buy)
 
@@ -85,9 +88,9 @@ class AutomateBuy:
         for i in range(len(l_book_buy)) :
             self.create_tab(i)
             self.switch_tab_browser(i)
-            print(l_book_buy[i])
             self.driver.get(l_book_buy[i])
             self.add_to_cart()
+            print(f"link {l_book_buy[i]} add to cart success.")
 
     def to_name_url(self, name, books) :
         # mangaqube
@@ -116,6 +119,7 @@ class AutomateBuy:
             attributes["login_btn"] = "//button[@class='action login primary']"
             attributes["parent_cart_btn"] = "//div[@class='attr-info']"
             attributes["add_to_cart_btn"] = "//button[@class='action primary tocart addcart-link']"
+            attributes["cart_url"] = "https://www.phoenixnext.com/checkout/cart/"
         elif "mangaque" in web :
             attributes["el_username"] = "username"
             attributes["el_password"] = "password"
@@ -126,12 +130,10 @@ class AutomateBuy:
         return attributes
 
     def add_to_cart(self) :
-        print("ok")
-        el_div = self.driver.find_element_by_xpath(self.config["parent_cart_btn"])
-        print(el_div.text)
-        # btn = self.driver.find_element_by_xpath(self.config["add_to_cart_btn"])
-        # print(btn)
-        # btn.click()
+        btn = self.driver.find_element_by_xpath(self.config["add_to_cart_btn"])
+        btn.click()
+        self.driver.implicitly_wait(50)
+        # time.sleep(3)
 
 def main() :
     a = AutomateBuy()
